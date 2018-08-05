@@ -23,6 +23,11 @@ class product{
 
         this.price = price3;
         this.minute = minute;
+
+
+
+
+
         
     }
 }
