@@ -12,7 +12,10 @@ import java.time.LocalTime;
 class product{
     
     String productName;
-    double price;
+	
+	
+	
+    double price1;
     int minute;
 
     public product(String productName,double price,int minute) {
