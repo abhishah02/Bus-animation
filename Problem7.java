@@ -21,6 +21,9 @@ class product{
     public product(String productName,double price,int minute) {
         
         this.productName = productName;
+
+
+
         this.price = price;
         this.minute = minute;
         
